@@ -19,7 +19,7 @@ This project is a simple voice assistant built using Python. The assistant can g
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/ridhwanrosman1901/voice_assistant.git
+   git clone https://github.com/ridhwanrosman1901/project_voice_assistant.git
    cd voice_assistant
 
 2. **Create a Virtual Environment (optional but recommended)**
